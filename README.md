@@ -1,4 +1,4 @@
 # Demo-Repo
 This is a demo Repo
 <br>
-Author: Muhammad Bilal
+Author: Muhammad Bilal Ahmad
